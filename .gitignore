@@ -1,4 +1,16 @@
 .ipynb_checkpoints/
 __pycache__/
-*.pyc
+*.py[cod]
+.pytest_cache/
+.coverage
 .env
+.venv/
+venv/
+
+# Generated model artifacts
+artifacts/*.joblib
+
+# Operating-system and editor files
+.DS_Store
+.vscode/
+.idea/
