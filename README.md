@@ -14,6 +14,10 @@ can help prioritize customers for proactive service, support, or retention
 offers. Because failing to identify a true churner can be expensive, this
 project deliberately gives **recall** more importance than raw accuracy.
 
+## Tools
+
+Python · pandas · NumPy · scikit-learn · matplotlib · pytest · GitHub Actions
+
 ## Verified Results
 
 The final model was evaluated on a stratified 20% holdout set containing 1,409
