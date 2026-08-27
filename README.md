@@ -133,7 +133,11 @@ which contains 7,043 customer records. Dataset details and attribution are in
 - Future work could compare tree-based models, calibrate probabilities, and
   expose predictions through a small web application or API.
 
+## Portfolio context
+
+This project is part of Hazim Ali's applied AI/data portfolio. It demonstrates a complete, testable classification workflow while keeping the fictional-data and model-association limits explicit.
+
 ## Author
 
-**Hazim Ali** — Artificial Intelligence & Data Science student at Sheridan
-College with a mechanical engineering and industrial sales background.
+**Hazim Ali** — Artificial Intelligence: Development and Applications student at Sheridan
+College with a mechanical engineering and industrial-systems/technical-operations background.
